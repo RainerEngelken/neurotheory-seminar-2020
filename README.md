@@ -18,5 +18,3 @@ Please register via Courseworks
 * Mar 11 *Hidden Markov Models* (Matt Whiteway)
 * Mar 18 *Latent Dynamical Systems* (Josh Glaser)
 * Mar 25 *Gaussian Processes* (Rainer Engelken)
-
-![visualization of low-dimensional attractor of chaotic firing-rate network by Rainer Engelken](chaotic-attractor-firing-rate-network-dynamics-rainer_engelken.JPG)
