@@ -18,3 +18,13 @@ Please register via Courseworks
 * Mar 11 *Hidden Markov Models* (Matt Whiteway)
 * Mar 18 *Latent Dynamical Systems* (Josh Glaser)
 * Mar 25 *Gaussian Processes* (Rainer Engelken)
+* Apr 1 *Hackathon on Latent Variable Models* (Rainer Engelken)
+
+
+### Miscellaneous
+* Apr 8  *tba*
+* Apr 15 *tba*
+* Apr 22 *tba*
+* Apr 29 *Classification and Geometry of General Perceptual Manifolds* (SueYeon Chung)
+
+
