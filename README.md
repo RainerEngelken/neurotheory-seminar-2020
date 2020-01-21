@@ -11,8 +11,8 @@ Please register via Courseworks
 ### Control Theory and Reinforcement Learning
 * Jan 29 *Examples of control theory in neuroscience* (Bettina Hein, Laureline Logiaco)
 * Feb 5 *Methods in control theory* (Bettina Hein, Laureline Logiaco)
-* Feb 12 *From optimal control theory to reinforcement learning* (Samuel Muscinelli)
-* Feb 19 *Reinforcement learning* (James Murray)
+* Feb 12 *Reinforcement learning* (James Murray)
+* Feb 19 *From optimal control theory to reinforcement learning* (Samuel Muscinelli)
 
 ### Latent Variable Models
 * Mar 11 *Hidden Markov Models* (Matt Whiteway)
