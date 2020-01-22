@@ -14,6 +14,9 @@ Please register via Courseworks
 * Feb 12 *Reinforcement learning* (James Murray)
 * Feb 19 *From optimal control theory to reinforcement learning* (Samuel Muscinelli)
 
+* Feb 26 *Cosyne break* 
+* Mar 4 *Cosyne break*
+
 ### Latent Variable Models
 * Mar 11 *Hidden Markov Models* (Matt Whiteway)
 * Mar 18 *Latent Dynamical Systems* (Josh Glaser)
