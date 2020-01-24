@@ -18,10 +18,10 @@ Please register via Courseworks
 * Mar 4 *Cosyne break*
 
 ### Latent Variable Models
-* Mar 11 *Hidden Markov Models* (Matt Whiteway)
-* Mar 18 *Latent Dynamical Systems* (Josh Glaser)
-* Mar 25 *Gaussian Processes* (Rainer Engelken)
-* Apr 1 *Modeling of Behavior* (Juri Minxha)
+* Mar 11 *GLMs & nonlinear regression* (Juri Minxha)
+* Mar 18 *Hidden Markov Models* (Matt Whiteway)
+* Mar 25 *Latent Dynamical Systems* (Josh Glaser)
+* Apr 1 *Gaussian Processes* (Rainer Engelken)
 * Apr 8 *Hackathon on Latent Variable Models*
 
 
