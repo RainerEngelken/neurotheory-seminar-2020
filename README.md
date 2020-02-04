@@ -9,7 +9,7 @@ Please register via Courseworks
 
 ## Schedule
 ### Control Theory and Reinforcement Learning
-* Jan 29 *Examples of control theory in neuroscience* (Bettina Hein, Laureline Logiaco)
+* Jan 29 *Examples of control theory in neuroscience* (Bettina Hein, Laureline Logiaco) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/Class_EgControlTheoryMotor_LLogiaco.pdf) 
 * Feb 5 *Methods in control theory* (Bettina Hein, Laureline Logiaco)
 * Feb 12 *Reinforcement learning* (James Murray)
 * Feb 19 *From optimal control theory to reinforcement learning* (Samuel Muscinelli)
