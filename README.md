@@ -13,7 +13,7 @@ Please register via Courseworks
 [more Slides](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/control1BettinaHein.pdf) 
 [more Material](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/readings/#Course) 
 
-* Feb 5 *Methods in control theory* (Bettina Hein, Laureline Logiaco) [Notes by Bettina Hein](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/lecture_bettina.pdf.pdf) [Notes by Laureline Logiaco](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/lectureNotes_LLogiaco_LQR.pdf)
+* Feb 5 *Methods in control theory* (Bettina Hein, Laureline Logiaco) [Notes by Bettina Hein](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/lecture_bettina.pdf) [Notes by Laureline Logiaco](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/lectureNotes_LLogiaco_LQR.pdf)
 * Feb 12 *Reinforcement learning* (James Murray)
 * Feb 19 *From optimal control theory to reinforcement learning* (Samuel Muscinelli)
 
