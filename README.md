@@ -21,8 +21,8 @@ Please register via Courseworks
 * Mar 4 *Cosyne break*
 
 ### Latent Variable Models
-* Mar 18 *GLMs & nonlinear regression* (Juri Minxha)
-* Mar 25 *Hidden Markov Models* (Matt Whiteway)
+* Mar 18 *GLMs & nonlinear regression* (Juri Minxha)[Notes](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/presentation_minxha_juri.pdf)  [code](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/bayesian_linear_regression.m) 
+* Mar 25 *Methods for static and sequential clustering* (Matt Whiteway)
 * Apr 1 *Latent Dynamical Systems* (Josh Glaser)
 * Apr 8 *Gaussian Processes* (Rainer Engelken)
 
