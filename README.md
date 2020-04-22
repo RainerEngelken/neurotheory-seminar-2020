@@ -2,7 +2,7 @@
 Wednesdays, 10.15 - 11.45 am
 
 ## Location:
-[Jerome L Greene Science Center, 6th floor room L6-087](https://www.google.com/maps/place/Jerome+L.+Greene+Science+Center/@40.816851,-73.960152,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f669953b6523:0xc3a414ae00347fea!8m2!3d40.816847!4d-73.957958)
+virtual, ask for link and password
 
 ## Registration:
 Please register via Courseworks
