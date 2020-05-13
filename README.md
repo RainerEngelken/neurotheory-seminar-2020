@@ -29,8 +29,9 @@ Please register via Courseworks
 
 
 ### Miscellaneous
-* Apr 15  *Phenomenological Renormalization Group* (Serena Di Santo)
+* Apr 15  *Phenomenological Renormalization Group* (Serena Di Santo)[Notes](https://github.com/RainerEngelken/neurotheory-seminar-2020/blob/master/PRGclass.pdf) 
 * Apr 22 *canceled* 
 * Apr 29 *Additional and diverse perspectives in neuroscience* (Laureline Logiaco, Matt Whiteway, Juri Minxha)
-* May 6 *Classification and Geometry of General Perceptual Manifolds* (SueYeon Chung)
+* Apr 6 *canceled* 
+* May 13 *Classification and Geometry of General Perceptual Manifolds* (SueYeon Chung)
 
